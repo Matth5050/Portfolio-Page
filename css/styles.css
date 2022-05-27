@@ -12,3 +12,12 @@
   border-radius: 80%;
   border: 2px solid white;
 }
+
+.jumbotron {
+  padding-bottom: 1rem;
+}
+
+.bi,
+.bi-github {
+  margin: 10px 10px;
+}
