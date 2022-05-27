@@ -1,6 +1,6 @@
 # Matt Herbert's Portfolio Webpage
 
-## View the personal [here]()
+## View the page [here]()
 
 ### This webpage was created to act as an online resume and showcase my current and past projects
 
