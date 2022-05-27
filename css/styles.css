@@ -21,3 +21,8 @@
 .bi-github {
   margin: 10px 10px;
 }
+
+.card-subtitle {
+  font-size: 15px;
+  line-height: 22px;
+}
