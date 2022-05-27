@@ -27,7 +27,12 @@
   line-height: 22px;
 }
 
-.column {
+.column1 {
   float: left;
+  width: 300px;
+  margin-right: 60px;
+}
+.column2 {
+  float: right;
   width: 300px;
 }
