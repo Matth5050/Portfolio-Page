@@ -1,3 +1,11 @@
+body {
+  background: linear-gradient(
+    to right,
+    rgba(39, 42, 48, 0.9),
+    rgba(120, 72, 168, 0.9)
+  );
+}
+
 #pic {
   width: 100%;
   height: auto;
@@ -35,7 +43,7 @@
   float: left;
   width: 300px;
   padding: 15px;
-  margin-right: 100px;
+  margin-right: 2rem;
   border-radius: 5px;
   border: 2px solid black;
 }
