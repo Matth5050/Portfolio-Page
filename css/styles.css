@@ -23,6 +23,12 @@ body {
 
 .jumbotron {
   padding-bottom: 1rem;
+  background: linear-gradient(
+    to left,
+    rgba(107, 135, 191, 0.9),
+    rgba(120, 72, 168, 0.9)
+  );
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.5);
 }
 
 .bi,
