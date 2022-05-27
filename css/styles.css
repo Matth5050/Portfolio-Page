@@ -31,6 +31,23 @@ body {
   box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.5);
 }
 
+.card {
+  background: linear-gradient(
+    to left,
+    rgba(107, 135, 191, 0.9),
+    rgba(120, 72, 168, 0.9)
+  );
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.card-text {
+  color: #cf91f8;
+}
+
+.card-date {
+  color: rgb(93, 168, 239);
+}
+
 .bi,
 .bi-github {
   margin: 10px 10px;
@@ -39,6 +56,12 @@ body {
 .card-subtitle {
   font-size: 15px;
   line-height: 22px;
+}
+
+.card-subtitle1 {
+  font-size: 15px;
+  line-height: 22px;
+  color: #cf91f8;
 }
 
 .columns {
@@ -51,12 +74,10 @@ body {
   padding: 15px;
   margin-right: 2rem;
   border-radius: 5px;
-  border: 2px solid black;
 }
 .column2 {
   float: left;
   width: 300px;
   padding: 15px;
   border-radius: 5px;
-  border: 2px solid black;
 }
