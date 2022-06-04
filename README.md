@@ -14,7 +14,10 @@
 
 ## How to View
 
-- Click the GitHub pages link at the top of this README to view
+1. Clone this repository to your desktop
+2. Open the index.html file in your browser of choice.
+- Alternatively, click the GitHub pages link at the top of this README to view
+
 
 ## Known Bugs/Issues
 
