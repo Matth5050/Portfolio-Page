@@ -11,6 +11,10 @@ body {
   height: auto;
 }
 
+a {
+  color:#bbeaf9;
+}
+
 .container-1 {
   display: inline-block;
   position: relative;
@@ -29,6 +33,7 @@ body {
     rgba(120, 72, 168, 0.9)
   );
   box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.5);
+  font-family: 'Roboto Slab', serif;
 }
 
 .card {
@@ -40,12 +45,21 @@ body {
   box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.5);
 }
 
+.card-title {
+  font-family: 'Roboto Slab', serif;
+}
+
 .card-text {
   color: #cf91f8;
 }
 
+.about {
+  font-family: 'Roboto Slab', serif;
+}
+
 .card-date {
   color: rgb(93, 168, 239);
+  
 }
 
 .bi,
@@ -62,6 +76,7 @@ body {
   font-size: 15px;
   line-height: 22px;
   color: #cf91f8;
+  font-family: 'Roboto', sans-serif;
 }
 
 .columns {
